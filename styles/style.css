@@ -30,3 +30,23 @@
 .navbar img {
     margin-right: 55px;
 }   
+/*main page*/
+.main-container .container-2{
+    display:flex;
+    flex-direction: column;
+    margin-top: 150px;
+    padding-left: 75px;
+}
+
+span.is-turkiye{
+    font-size: 65px;
+    margin-left: 55px;
+    color: red;
+}
+.container-2 h1{
+    font-size: 32.5px;
+    color:black;
+}
+.container-2 a {
+    margin-left: 450px;
+}

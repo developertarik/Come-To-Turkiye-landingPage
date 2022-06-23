@@ -12,7 +12,7 @@
     display:flex;
     align-items:center;
     justify-content: space-between;
-    padding-left: 75px;
+    padding-left: 125px;
     padding-right: 75px;
 }
 .navbar ul{
@@ -25,4 +25,8 @@
 }
 .navbar a{
     text-decoration: none;
+    color:rgb(246, 99, 86);    
 }
+.navbar img {
+    margin-right: 55px;
+}   

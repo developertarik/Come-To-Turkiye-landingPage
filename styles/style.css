@@ -31,6 +31,11 @@
     margin-right: 55px;
 }   
 /*main page*/
+.main-container{
+    display:flex;
+    flex-direction: row;
+
+}
 .main-container .container-2{
     display:flex;
     flex-direction: column;
@@ -48,5 +53,17 @@ span.is-turkiye{
     color:black;
 }
 .container-2 a {
+    margin-top: 15px;
     margin-left: 450px;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 5px 10px;
+    width: 155px;
+    height: 40px;
+    text-align: center;
+    border-radius: 25px;
+}
+.container-2 .turkey{
+    width :500px;
 }

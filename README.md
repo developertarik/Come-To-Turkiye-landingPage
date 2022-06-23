@@ -1,2 +1,2 @@
 # Come-To-Turkiye-landingPage
-:D
+LICENSE:This project MIT license

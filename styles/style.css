@@ -67,3 +67,10 @@ span.is-turkiye{
 .container-2 .turkey{
     width :500px;
 }
+.footer{
+    padding: 50px 50px;
+    text-align: center;
+    background-color: rgb(77, 62, 62);
+    color: white;
+    
+}
